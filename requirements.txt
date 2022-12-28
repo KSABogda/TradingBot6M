@@ -57,7 +57,7 @@ parso @ file:///tmp/build/80754af9/parso_1607623074025/work
 pathlib==1.0.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
-Pillow==8.1.2
+Pillow==9.3.0
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
 protobuf==3.15.6
 psutil==5.8.0
